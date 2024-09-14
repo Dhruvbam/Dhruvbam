@@ -50,12 +50,14 @@ I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" alt="MongoDB" /></a>
 &nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a>
+<div align="center">  
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbam&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=00000000)
 
 </a>
+</div>
 <br/>
 
 ### 💻 My Projects:
@@ -66,8 +68,22 @@ I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech
 | <a href="https://github.com/Dhruvbam/Data-Structures" target="_blank"> <img alt="Data Structures" src="https://github.com/Dhruvbam/Data-Structures/blob/main/Images/ss.jpg" height="68"> <br>Data Structures</a> | <a href="https://github.com/Dhruvbam/Operating-Systems" target="_blank"> <img alt="Operating Systems" src="https://github.com/Dhruvbam/Operating-Systems/blob/main/Images/ass3.jpg" height="68"> <br>Operating Systems</a> | <a href="https://github.com/Dhruvbam/Parallel-and-Concurrent-Programming" target="_blank"> <img alt="Parallel and Concurrent Programming" src="https://github.com/Dhruvbam/Parallel-and-Concurrent-Programming/blob/main/Images/ss.jpg" height="68"> <br>Parallel and Concurrent Programming</a> | <a href="https://github.com/Dhruvbam/Ticket-Booking-System" target="_blank"> <img alt="Ticket Booking System" src="https://github.com/Dhruvbam/Ticket-Booking-System/blob/main/tbs.jpg" height="68"> <br>Ticket Booking System</a> | <a href="https://github.com/Dhruvbam/Live-Weather-App" target="_blank"> <img alt="Live Weather App" src="https://github.com/Dhruvbam/Live_Weather_App/blob/main/Live_Weather_App/images/wm1.jpg" height="68"> <br>Live Weather App</a> |
 | <a href="https://github.com/Dhruvbam/Online-Expense-Tracker" target="_blank"> <img alt="Online Expense Tracker" src="https://github.com/Dhruvbam/Online-Expense-Tracker/blob/main/Images/ss.png" height="68"> <br>Online Expense Tracker</a> | <a href="https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms" target="_blank"> <img alt="Design and Analysis of Algorithms" src="https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%201%20-%20Search%20Engine%20Reliability/img.png" height="68"> <br>Search Engine Reliability</a> | <a href="https://github.com/Dhruvbam/Course-Sequencer" target="_blank"> <img alt="Course Sequencer" src="https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%202%20-%20Course%20Sequencer/img.png" height="68"> <br>Course Sequencer</a> | <a href="https://github.com/Dhruvbam/Shortest-Path-Finder" target="_blank"> <img alt="Shortest Path Finder" src="https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%203%20-%20Shortest%20Path%20Finder/sp1.png" height="68"> <br>Shortest Path Finder</a> | <a href="https://github.com/Dhruvbam/Programming-Principles" target="_blank"> <img alt="Programming Principles" src="https://github.com/Dhruvbam/Programming-Principles/blob/main/Images/ss.jpg" height="68"> <br>Programming Principles</a> |
 
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=dhruvbam&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark&bg_color=00000000&icon_color=FF0000)
+
+</a>
+
+</div>
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+<div align="center">
 
