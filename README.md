@@ -30,7 +30,7 @@ I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="42" height="42" alt="Java" /></a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" /></a>
 &nbsp;
 <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3" /></a>
@@ -48,7 +48,6 @@ I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42" alt="React" /></a>
 &nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" alt="MongoDB" /></a>
-&nbsp;
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a>
 <div align="center">  
 </p>
