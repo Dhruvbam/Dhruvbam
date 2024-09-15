@@ -74,7 +74,7 @@ I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech
     <td align="center"><a href="https://github.com/Dhruvbam/Operating-Systems" target="_blank"> <img alt="Operating Systems" src="https://github.com/Dhruvbam/Operating-Systems/blob/main/Images/ass3.jpg" height="68"> <br>Operating Systems</a></td>
     <td align="center"><a href="https://github.com/Dhruvbam/Parallel-and-Concurrent-Programming" target="_blank"> <img alt="Parallel and Concurrent Programming" src="https://github.com/Dhruvbam/Parallel-and-Concurrent-Programming/blob/main/Images/ss.jpg" height="68"> <br>Parallel and Concurrent Programming</a></td>
     <td align="center"><a href="https://github.com/Dhruvbam/Ticket-Booking-System" target="_blank"> <img alt="Ticket Booking System" src="https://github.com/Dhruvbam/Ticket-Booking-System/blob/main/tbs.jpg" height="68"> <br>Ticket Booking System</a></td>
-    <td align="center"><a href="https://github.com/Dhruvbam/Live-Weather-App" target="_blank"> <img alt="Live Weather App" src="https://github.com/Dhruvbam/Live_Weather_App/blob/main/Live_Weather_App/images/wm1.jpg" height="68"> <br>Live Weather App</a></td>
+    <td align="center"><a href="https://github.com/Dhruvbam/Live_Weather_App" target="_blank"> <img alt="Live Weather App" src="https://github.com/Dhruvbam/Live_Weather_App/blob/main/Live_Weather_App/images/wm1.jpg" height="68"> <br>Live Weather App</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Dhruvbam/Online-Expense-Tracker" target="_blank"> <img alt="Online Expense Tracker" src="https://github.com/Dhruvbam/Online-Expense-Tracker/blob/main/Images/ss.png" height="68"> <br>Online Expense Tracker</a></td>
