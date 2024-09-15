@@ -53,7 +53,7 @@ I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbam&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=00000000)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbam&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,asp.net)
 
 </a>
 </div>
