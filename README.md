@@ -67,7 +67,7 @@ I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech
     <td align="center"><a href="https://github.com/Dhruvbam/AlgoWhiz" target="_blank"> <img alt="AlgoWhiz" src="https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algoowhiz.jpg" height="68"> <br>AlgoWhiz</a></td>
     <td align="center"><a href="https://github.com/Dhruvbam/Tobby-s-Terror" target="_blank"> <img alt="Toby's Terror" src="https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.png" height="68"> <br>Toby's Terror</a></td>
     <td align="center"><a href="https://github.com/Dhruvbam/Valorant-Discord-Bot" target="_blank"> <img alt="Valorant Discord Bot" src="https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/valo.jpg" height="68"> <br>Valorant Discord Bot</a></td>
-    <td align="center"><a href="https://github.com/Dhruvbam/DTMF-Decoder" target="_blank"> <img alt="DTMF Decoder" src="https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/dtmf.jpg" height="68"> <br>DTMF Decoder</a></td>
+    <td align="center"><a href="https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder" target="_blank"> <img alt="DTMF Decoder" src="https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/dtmf.jpg" height="68"> <br>DTMF Decoder</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Dhruvbam/Data-Structures" target="_blank"> <img alt="Data Structures" src="https://github.com/Dhruvbam/Data-Structures/blob/main/Images/ss.jpg" height="68"> <br>Data Structures</a></td>
