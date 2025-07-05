@@ -4,7 +4,7 @@
 <a href='https://www.linkedin.com/in/dhruvmaniar/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='28px'/></a>
 <a href='mailto:dmaniar@ttu.edu'><img align='left' alt="email" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" height='28px'/></a>
 
-<br/>
+<br>
 <br/>
 
 I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech University, actively working on innovative projects in **software development**, **artificial intelligence**, and **full-stack web development**. I have a strong background in **algorithms**, **data structures**, and **system design**. With hands-on experience across various programming languages and technologies, I aim to contribute to impactful projects while continuously honing my skills.
