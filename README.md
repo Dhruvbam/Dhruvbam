@@ -1,4 +1,4 @@
-## Hey 👋, I'm Dhruv Maniar!
+## Hey, I'm Dhruv Maniar👋
 
 <a href='https://dhruv.it.com/'><img align='left' alt="website" src="https://github.com/Dhruvbam/Portfolio-Website/blob/main/images/favicon/white.svg" height='28px'/></a>
 <a href='https://www.linkedin.com/in/dhruvmaniar/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='28px'/></a>
@@ -7,13 +7,15 @@
 <br>
 <br>
 
-I’m a **Computer Science major** with a minor in **Mathematics** at Texas Tech University, actively working on innovative projects in **software development**, **artificial intelligence**, and **full-stack web development**. I have a strong background in **algorithms**, **data structures**, and **system design**. With hands-on experience across various programming languages and technologies, I aim to contribute to impactful projects while continuously honing my skills.
+I’m a **Computer Science** major with a Minor in **Mathematics** at Texas Tech University, recognized on the Dean’s Honor List and awarded the Presidential Merit Scholarship.
+
+I’m passionate about software engineering, algorithms, and AI‑driven applications. My repositories showcase projects in full‑stack development, system design, and applied machine learning, each reflecting my drive to turn ideas into impactful solutions. With hands-on experience across various programming languages and technologies, I aim to consistently refine my skills while seeking opportunities to contribute to projects that challenge me to grow and deliver meaningful value.
+
 <br/>
 ### 🚀 What I Do:
-- 🔭 Currently building **AI-driven** and **full-stack** applications.
+- 🔭 Currently building **AI-driven** **full-stack** applications.
 - 🌱 Continuously learning and experimenting with new technologies like **AI**, **cloud services**, and **data science**.
 - 💼 Open to collaboration on exciting projects and innovative tech solutions.
-- 🎓 Recipient of the **Presidential Merit Scholarship** and consistently recognized on the **Dean’s Honor List**.
 
 <br/>
 
