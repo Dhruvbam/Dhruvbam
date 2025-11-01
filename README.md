@@ -12,6 +12,7 @@ I’m a **Computer Science** major with a Minor in **Mathematics** at Texas Tech
 I’m passionate about software engineering, algorithms, and AI‑driven applications. My repositories showcase projects in full‑stack development, system design, and applied machine learning, each reflecting my drive to turn ideas into impactful solutions. With hands-on experience across various programming languages and technologies, I aim to consistently refine my skills while seeking opportunities to contribute to projects that challenge me to grow and deliver meaningful value.
 
 <br/>
+
 ### 🚀 What I Do:
 - 🔭 Currently building **AI-driven** **full-stack** applications.
 - 🌱 Continuously learning and experimenting with new technologies like **AI**, **cloud services**, and **data science**.
