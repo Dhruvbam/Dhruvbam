@@ -93,7 +93,7 @@ I’m passionate about software engineering, algorithms, and AI‑driven applica
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
@@ -101,7 +101,7 @@ I’m passionate about software engineering, algorithms, and AI‑driven applica
 
 </a>
 
-</div>
+</div> -->
 
 
 <p align="center">
