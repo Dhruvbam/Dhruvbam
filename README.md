@@ -1,6 +1,6 @@
 ## Hey, I'm Dhruv Maniar👋
 
-<a href='https://dhruv.it.com/'><img align='left' alt="website" src="https://github.com/Dhruvbam/Portfolio-Website/blob/main/images/favicon/white.svg" height='28px'/></a>
+<a href='https://dhruv.it.com/'><img align='left' alt="website" src="https://github.com/Dhruvbam/Dhruv-s-Portfolio-Website/blob/main/assets/images/Favicon/Memoji.png" height='28px'/></a>
 <a href='https://www.linkedin.com/in/dhruvmaniar/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='28px'/></a>
 <a href='mailto:dmaniar@ttu.edu'><img align='left' alt="email" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" height='28px'/></a>
 
